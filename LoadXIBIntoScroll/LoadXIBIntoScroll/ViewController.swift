@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 	
 	var theXIBView: LabelsHolderView!
 	
-	var numLines = [3, 3, 3]
+	var numLines = [1, 2, 1]
 	
 	func updateLabels() -> Void {
 		
